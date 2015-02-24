@@ -1,0 +1,9 @@
+MobiSpoke Coding Assignment
+Jarib Rahman
+
+Compile instructions: 
+make
+
+Running instructions: 
+java TriangleTester x y z
+where x, y and z are numeric values for the three sides of the triangle.
