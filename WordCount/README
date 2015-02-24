@@ -1,0 +1,11 @@
+MobiSpoke Coding Assignment
+Jarib Rahman
+
+Compile instructions: 
+make
+
+
+Running instructions: 
+java WordCountTester
+
+The text file with the removed top 10 occurring words is written to editedFile.txt.
